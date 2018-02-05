@@ -1,5 +1,11 @@
 # Changelog
 
+### 20.1.0 [#895](https://github.com/openfisca/openfisca-france/pull/895)
+
+* Amélioration technique
+* Détails :
+  - Adapte France à OpenFisca Core v22
+
 ### 20.0.6 [#892](https://github.com/openfisca/openfisca-france/pull/892)
 
 * Correction d'un crash
